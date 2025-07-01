@@ -1,0 +1,14 @@
+[project]
+name = "screenrecorder"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "keyboard>=0.13.5",
+    "mss>=10.0.0",
+    "opencv-python>=4.11.0.86",
+    "pillow>=11.1.0",
+    "pyperclip>=1.9.0",
+    "pywin32>=310",
+]
