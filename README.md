@@ -59,6 +59,8 @@ python main.py
 
 - Press `Esc` to stop video recording
 - Press `q` to quit the preview window
+  ![image](https://github.com/user-attachments/assets/435cf43b-f8c5-4f88-bbe3-37c4e4890811)
+
 
 ### Output Files
 
