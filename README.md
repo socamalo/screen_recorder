@@ -29,7 +29,7 @@ A powerful and user-friendly screen recording tool built with Python that allows
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/screen-recorder.git
+git clone https://github.com/socamalo/screen_recorder.git
 cd screen-recorder
 ```
 
